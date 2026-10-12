@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Task Manager
 
 A small React app for adding, completing, filtering and deleting tasks.
@@ -34,3 +35,6 @@ git init && git add . && git commit -m "Student Task Manager"
 git remote add origin https://github.com/your-username/student-task-manager.git
 git push -u origin main
 ```
+=======
+# -student-task-manager
+>>>>>>> 079baa5703904dbd73dce09c30384d69fdadd673
