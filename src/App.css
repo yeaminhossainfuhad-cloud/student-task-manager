@@ -20,7 +20,7 @@ body {
 }
 
 .app { max-width: 620px; margin: 0 auto; padding: 2rem 1rem 3rem; }
-h1 { font-size: 1.9rem; margin: 0 0 1.25rem; letter-spacing: -0.01em; }
+h1 { font-size: 1.9rem; margin: 0 0 1.25rem; letter-spacing: -0.01em; text-align: center; }
 h2 { font-size: 1.05rem; margin: 0 0 0.75rem; }
 
 .card {
